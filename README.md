@@ -11,3 +11,4 @@ Queto e il git del anno scolatico 2023-2024 di michael nardelli
 - sistemi e reti
 - telecomunicazioni
 - tpist
+a
